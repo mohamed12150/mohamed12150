@@ -40,6 +40,15 @@
 
 ### Featured Projects
 
+#### 🧠 [Shakhsiyati — شخصيتي](https://github.com/mohamed12150/personalty) — Live on Google Play
+Arabic personality-discovery app with a social community: 16-type personality test (quick & full),
+AI-generated personal analysis, a community feed with AI personas, a daily personality puzzle,
+rewards & unlockable avatars, daily articles filtered by type, real-time notifications, and guest mode.
+
+<a href="https://play.google.com/store/apps/details?id=com.shakhsiyati.app"><img height="50" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
+
+`Flutter` `Supabase` `PostgreSQL` `AI` `OneSignal` `Google Sign-In`
+
 #### 🏢 QHub ERP — Business Incubator Management System
 A complete ERP for a business incubator: incubated-company management, meeting-room booking, services,
 ZATCA-compliant tax invoicing, support tickets, events, and a team of AI assistants built into the system.
