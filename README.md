@@ -47,12 +47,4 @@
 
 ---
 
-### GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamed12150&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed12150&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><b>Open to full-time roles and freelance projects.</b></p>
